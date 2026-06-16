@@ -1,0 +1,994 @@
+[
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Colliers Wood",
+    "road": "A42 and A238 Merton High Street and High Street Colliers Wood",
+    "impact": "Lane Closure",
+    "description": "Lane closures in place to enable upgrades to traffic lights, pedestrian islands, cycling infrastructure and line markings. From Priory Road to Blackshaw Road.",
+    "startDate": "2026-09-07",
+    "endDate": "2026-11-20",
+    "displayDate": "7 September to 20 November 2026",
+    "time": "",
+    "notes": "Not continuous working.",
+    "worksBy": "TfL",
+    "references": [
+      "YG47633718435",
+      "YG47639430919",
+      "YG47633115398"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-001"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Colliers Wood",
+    "road": "Abingdon Close",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable repairs to a District Water Meter.",
+    "startDate": "2026-09-01",
+    "endDate": "2026-09-10",
+    "displayDate": "1 September to 10 September 2026",
+    "time": "",
+    "notes": "Access for residents to be maintained. Parking bays to be suspended.",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU093MCW-SL-07565637"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-002"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Colliers Wood",
+    "road": "Deburgh Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable a new water connection to be completed to No.23.",
+    "startDate": "2026-07-27",
+    "endDate": "2026-07-31",
+    "displayDate": "27 July to 31 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU091SLS000813903670090"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-003"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Colliers Wood",
+    "road": "Milton Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable lead pipe replacement works.",
+    "startDate": "2026-06-01",
+    "endDate": "2026-06-26",
+    "displayDate": "1 June to 26 June 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU093LPR-MERT-SL097"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-004"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Colliers Wood",
+    "road": "Robinson Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place at the junction with High Street Colliers Wood to enable ducting and connections for signage.",
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-10",
+    "displayDate": "6 July to 10 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Network Rail",
+    "references": [
+      "KL899SMS1-4-130426"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-005"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Bennetts Close",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable carriageway resurfacing works.",
+    "startDate": "2026-08-19",
+    "endDate": "2026-08-21",
+    "displayDate": "19 August to 21 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00241104240"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-006"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Carshalton Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place from Cranmer Road to Croydon Road to enable carriageway resurfacing.",
+    "startDate": "2026-07-06",
+    "endDate": "2026-07-07",
+    "displayDate": "6 July to 7 July 2026",
+    "time": "Night works 20:00 to 05:00",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00292576189"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-007"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Church Road",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place to enable installation of a new zebra crossing outside 92.",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-19",
+    "displayDate": "15 June to 19 June 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00205451535"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-008"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Church Road",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place to enable gas mains replacement works between Hallowfield Way and Vicarage Gardens.",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-24",
+    "displayDate": "3 August to 24 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W122964689-06216",
+      "XW016W122925105-01431"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-009"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "London Road (A217)",
+    "impact": "Lane Closure",
+    "description": "Lane closure outside 390 to enable repairs to a damaged Boundary Box.",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-18",
+    "displayDate": "15 June to 18 June 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU70201192908-0001"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-010"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "London Road (A217)",
+    "impact": "Lane Closure",
+    "description": "Lane closure at the junction with Raleigh Gardens to complete lead replacement and removal works.",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-07",
+    "displayDate": "3 August to 7 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU093LPR-MERT-SL0097"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-011"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "London Road (A217)",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable carriageway resurfacing works.",
+    "startDate": "2026-08-12",
+    "endDate": "2026-08-14",
+    "displayDate": "12 August to 14 August 2026",
+    "time": "Night works 20:00 to 05:00",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00241104240"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-012"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "London Road (A217)",
+    "impact": "Lane Closure",
+    "description": "Lane closure in place between Broadway Gardens and Cricket Green to repair damaged covers.",
+    "startDate": "2026-09-07",
+    "endDate": "2026-09-09",
+    "displayDate": "7 September to 9 September 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU298TW00115129-S81"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-013"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Manor Road",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place to enable testing and integration of new telecoms equipment.",
+    "startDate": "2026-07-23",
+    "endDate": "2026-07-31",
+    "displayDate": "23 July to 31 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "T-Mobile",
+    "references": [
+      "YN12315020-P-311121"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-014"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Raleigh Gardens",
+    "impact": "Lane Closure",
+    "description": "Lane closure to complete the final works decommissioning the old Water Main.",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-12",
+    "displayDate": "29 June to 12 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU054MIT5-RALG175"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-015"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Tamworth Lane",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place to enable gas mains replacement works laying 373m of new main and replacing all services and connections between Cedars Avenue and Barnfield Avenue.",
+    "startDate": "2026-05-25",
+    "endDate": "2026-06-26",
+    "displayDate": "25 May to 26 June 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W122964689-06216"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-016"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Tamworth Lane",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place to enable gas mains replacement works laying 120m of new main and 3 connections between Manor Road and Marlowe Square.",
+    "startDate": "2026-07-13",
+    "endDate": "2026-07-31",
+    "displayDate": "13 July to 31 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W123148531-06216"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-017"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Tamworth Lane",
+    "impact": "Road Closure",
+    "description": "Road closure in place from Grove Road to Cedars Avenue to enable carriageway resurfacing works.",
+    "startDate": "2026-07-22",
+    "endDate": "2026-07-25",
+    "displayDate": "22 July to 25 July 2026",
+    "time": "Night works 20:00 to 05:00",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00285873296"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-018"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Wates Way",
+    "impact": "Two-way lights",
+    "description": "Two-way lights in place outside No.2 to enable disconnections of gas services.",
+    "startDate": "2026-06-23",
+    "endDate": "2026-07-06",
+    "displayDate": "23 June to 6 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW315W123382113-06570"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-019"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Mitcham",
+    "road": "Wide Way",
+    "impact": "Road Closure",
+    "description": "Road closure in place from Manor Road to Sherwood Park Road to enable carriageway resurfacing works.",
+    "startDate": "2026-07-07",
+    "endDate": "2026-07-10",
+    "displayDate": "7 July to 10 July 2026",
+    "time": "Night works 20:00 to 05:00",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00226166015"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-020"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Morden",
+    "road": "Cannon Hill Lane",
+    "impact": "Road Closure",
+    "description": "Road closure in place to decommission old Cast Iron main and replace with new Plastic Main, replacing all customer connections and side roads.",
+    "startDate": "2026-08-17",
+    "endDate": "2026-09-14",
+    "displayDate": "17 August to 14 September 2026",
+    "time": "",
+    "notes": "Cannon Hill Lane project.",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W123228033-01155"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-021"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Morden",
+    "road": "Monkleigh Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable connection onto new gas main on Cannon Hill Lane.",
+    "startDate": "2026-08-17",
+    "endDate": "2026-09-14",
+    "displayDate": "17 August to 14 September 2026",
+    "time": "",
+    "notes": "Cannon Hill Lane project.",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W123228119-04485"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-022"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Morden",
+    "road": "Northway",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable connection onto new gas main on Cannon Hill Lane.",
+    "startDate": "2026-08-17",
+    "endDate": "2026-09-14",
+    "displayDate": "17 August to 14 September 2026",
+    "time": "",
+    "notes": "Cannon Hill Lane project.",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W123228186-04773"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-023"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Morden",
+    "road": "Eastway",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place to enable gas main replacement works.",
+    "startDate": "2026-05-08",
+    "endDate": "2026-07-12",
+    "displayDate": "8 May to 12 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W122889989-02316"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-024"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Morden",
+    "road": "Lower Morden Lane",
+    "impact": "Road Closure",
+    "description": "Road closure in place between Garth Road and Beverley Roundabout to enable carriageway resurfacing works.",
+    "startDate": "2026-07-20",
+    "endDate": "2026-07-21",
+    "displayDate": "20 July to 21 July 2026",
+    "time": "Night works 20:00 to 05:00",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00298513571"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-025"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Morden",
+    "road": "Salcombe Drive",
+    "impact": "Road Closure",
+    "description": "Road closure in place to facilitate storage and compound for gas mains replacement works.",
+    "startDate": "2026-05-11",
+    "endDate": "2026-07-20",
+    "displayDate": "11 May to 20 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W122783697-05727"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-026"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Morden",
+    "road": "Sheridan Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place to replace damaged valves and install new equipment at the junction with Dorset Road.",
+    "startDate": "2026-06-23",
+    "endDate": "2026-06-24",
+    "displayDate": "23 June to 24 June 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU093SAH-SL-07289922"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-027"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Morden",
+    "road": "The Green",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place between Cannon Hill Lane and Eastway to enable gas main replacement works.",
+    "startDate": "2026-05-06",
+    "endDate": "2026-06-26",
+    "displayDate": "6 May to 26 June 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W122890182-02946"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-028"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Ashridge Way",
+    "impact": "Road Closure",
+    "description": "Road closure in place to decommission old Cast Iron main and replace with new Plastic Main, replacing all customer connections and side roads.",
+    "startDate": "2026-07-27",
+    "endDate": "2026-08-24",
+    "displayDate": "27 July to 24 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W123227760-00276"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-029"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Bushey Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable carriageway resurfacing works.",
+    "startDate": "2026-07-27",
+    "endDate": "2026-07-30",
+    "displayDate": "27 July to 30 July 2026",
+    "time": "Night works 22:00 to 05:00",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00205991317"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-030"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Cannon Hill Lane",
+    "impact": "Multi-way lights",
+    "description": "Multi-way temporary traffic signals at the junction with Whatley Avenue to enable connection works.",
+    "startDate": "2026-06-29",
+    "endDate": "2026-07-10",
+    "displayDate": "29 June to 10 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W122919983-01155"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-031"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Cannon Hill Lane",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable carriageway resurfacing between Martin Way and Kingston Road.",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-05",
+    "displayDate": "3 August to 5 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00227332707"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-032"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Coombe Lane",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place at the junction with Cambridge Road to enable repairs to a failing reinstatement.",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-31",
+    "displayDate": "28 July to 31 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU091SLS00081395113-0245"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-033"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Coombe Lane",
+    "impact": "Two-way lights",
+    "description": "Two-way lights in place outside 76-78 to enable repairs to outside stop valve.",
+    "startDate": "2026-07-28",
+    "endDate": "2026-07-30",
+    "displayDate": "28 July to 30 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU260BAU-CSL-0363693"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-034"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Coombe Lane",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place at the junction with West Barnes Lane to enable repairs to a damaged Box and Frame.",
+    "startDate": "2026-08-11",
+    "endDate": "2026-08-13",
+    "displayDate": "11 August to 13 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Thames Water",
+    "references": [
+      "MU29832137865-S81"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-035"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Lower Downs Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable carriageway resurfacing works.",
+    "startDate": "2026-08-17",
+    "endDate": "2026-08-19",
+    "displayDate": "17 August to 19 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Merton Council",
+    "references": [
+      "HC00207035779"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-036"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Martin Way",
+    "impact": "Road Closure / Two-way lights",
+    "description": "Road closure / two-way lights in place between Bushey Road and Whatley Avenue to lay new gas main and complete transfer of all connections and services.",
+    "startDate": "2026-07-20",
+    "endDate": "2026-08-21",
+    "displayDate": "20 July to 21 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W123306256-04264"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-037"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "B282 West Barnes Lane, New Malden Level Crossing",
+    "impact": "Road Closure",
+    "description": "Road closure in place at the West Barnes Crossing to enable inspections, access or maintenance to be carried out to the level crossing.",
+    "startDate": "2026-09-02",
+    "endDate": "2026-09-04",
+    "displayDate": "2 September to 4 September 2026",
+    "time": "Night works 00:05 to 05:00",
+    "notes": "Diversion via Claremont Avenue or West Barnes Lane, and Burlington Road.",
+    "worksBy": "Network Rail",
+    "references": [
+      "KL156RPE-09-64-020926"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-038"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "B282 West Barnes Lane, New Malden Level Crossing",
+    "impact": "Road Closure",
+    "description": "Road closure in place at the West Barnes Crossing to enable inspections, access or maintenance to be carried out to the level crossing.",
+    "startDate": "2026-09-13",
+    "endDate": "2026-09-13",
+    "displayDate": "13 September 2026",
+    "time": "Night works 00:01 to 05:00",
+    "notes": "Diversion via Claremont Avenue or West Barnes Lane, and Burlington Road.",
+    "worksBy": "Network Rail",
+    "references": [
+      "KL156RPE-09-64-130926"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-039"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "B282 West Barnes Lane, New Malden Level Crossing",
+    "impact": "Road Closure",
+    "description": "Road closure in place at the West Barnes Crossing to enable inspections, access or maintenance to be carried out to the level crossing.",
+    "startDate": "2026-09-15",
+    "endDate": "2026-09-18",
+    "displayDate": "15 September to 18 September 2026",
+    "time": "Night works 00:05 to 05:00",
+    "notes": "Diversion via Claremont Avenue or West Barnes Lane, and Burlington Road.",
+    "worksBy": "Network Rail",
+    "references": [
+      "KL156RPE-09-64-150926"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-040"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "B282 West Barnes Lane, New Malden Level Crossing",
+    "impact": "Road Closure",
+    "description": "Road closure in place at the West Barnes Crossing to enable inspections, access or maintenance to be carried out to the level crossing.",
+    "startDate": "2026-10-06",
+    "endDate": "2026-10-09",
+    "displayDate": "6 October to 9 October 2026",
+    "time": "Night works 00:30 to 05:00",
+    "notes": "Diversion via Claremont Avenue or West Barnes Lane, and Burlington Road.",
+    "worksBy": "Network Rail",
+    "references": [
+      "KL156RPE-09-64-061026"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-041"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "B282 West Barnes Lane, New Malden Level Crossing",
+    "impact": "Road Closure",
+    "description": "Road closure in place at the West Barnes Crossing to enable inspections, access or maintenance to be carried out to the level crossing.",
+    "startDate": "2026-10-15",
+    "endDate": "2026-10-15",
+    "displayDate": "15 October 2026",
+    "time": "Night works 00:30 to 05:00",
+    "notes": "Diversion via Claremont Avenue or West Barnes Lane, and Burlington Road.",
+    "worksBy": "Network Rail",
+    "references": [
+      "KL156RPE-09-64-151026"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-042"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "B282 West Barnes Lane, West Barnes Level Crossing",
+    "impact": "Road Closure",
+    "description": "Road closure in place at the West Barnes Crossing to enable inspections, access or maintenance to be carried out to the level crossing.",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-17",
+    "displayDate": "14 July to 17 July 2026",
+    "time": "Night works only 00:01 to 05:00",
+    "notes": "Diversion via Claremont Avenue, Burlington Road and West Barnes Lane.",
+    "worksBy": "Network Rail",
+    "references": [
+      "KL156RPE-09-18-140726"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-043"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Whatley Avenue",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable SGN gas mains replacement works including 39 services.",
+    "startDate": "2026-06-15",
+    "endDate": "2026-07-17",
+    "displayDate": "15 June to 17 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W122920311-06690"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-044"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Raynes Park",
+    "road": "Woodland Way",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable SGN gas mains replacement works on Ashridge Way.",
+    "startDate": "2026-07-27",
+    "endDate": "2026-08-24",
+    "displayDate": "27 July to 24 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W123227827-06825"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-045"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Ashcombe Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable maintenance to a telecoms mast.",
+    "startDate": "2026-09-09",
+    "endDate": "2026-09-11",
+    "displayDate": "9 September to 11 September 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "T-Mobile",
+    "references": [
+      "YN12576916-P-311451-SJ1"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-046"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Ashcombe Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place to enable maintenance to a telecoms mast.",
+    "startDate": "2026-09-14",
+    "endDate": "2026-09-19",
+    "displayDate": "14 September to 19 September 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "T-Mobile",
+    "references": [
+      "YN12576916-P-311451-SJ2"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-047"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Copse Hill",
+    "impact": "Road Closure",
+    "description": "Road closure in place from Lindisfarne Road to Chambers Park Hill to enable gas mains replacement works including 3 mains connections and 18 services.",
+    "startDate": "2026-07-27",
+    "endDate": "2026-08-31",
+    "displayDate": "27 July to 31 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W121889917-01623"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-048"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Copse Hill",
+    "impact": "Road Closure",
+    "description": "Road closure in place from Coombe Lane to Barham Road to enable gas mains replacement works including 3 mains connections and 23 services.",
+    "startDate": "2026-07-20",
+    "endDate": "2026-08-14",
+    "displayDate": "20 July to 14 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "SGN",
+    "references": [
+      "XW016W121686395-01623"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-049"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Leopold Road",
+    "impact": "Road Closure",
+    "description": "Road closure in place outside number 10 to 12 to enable maintenance works to Extra-High Voltage Power Cables.",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-19",
+    "displayDate": "8 June to 19 June 2026",
+    "time": "",
+    "notes": "Local diversion in place via Arthur Road and Strathearn Road.",
+    "worksBy": "UK Power Networks",
+    "references": [
+      "EC40051573624"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-050"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Marryat Road and Burghley Road",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place at the junction of Marryat Road and Burghley Road to enable new/upgraded electricity supplies to customers.",
+    "startDate": "2026-09-01",
+    "endDate": "2026-09-18",
+    "displayDate": "1 September to 18 September 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "UK Power Networks",
+    "references": [
+      "EC40053273580",
+      "EC40067189435"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-051"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Wimbledon Hill Road",
+    "impact": "Multi-way lights",
+    "description": "Multi-way lights in place at the junction with Alwyne Road to enable works on the Bus Stop Green Roof.",
+    "startDate": "2026-06-18",
+    "endDate": "2026-06-18",
+    "displayDate": "18 June 2026",
+    "time": "1 day",
+    "notes": "",
+    "worksBy": "TfL",
+    "references": [
+      "HC010MER0087AB"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-052"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Wimbledon Hill Road",
+    "impact": "Lane Closure",
+    "description": "Lane closure to enable new power connection to 41-47.",
+    "startDate": "2026-08-10",
+    "endDate": "2026-08-21",
+    "displayDate": "10 August to 21 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "UK Power Networks",
+    "references": [
+      "EC40008041601"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-053"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Wimbledon",
+    "road": "Worple Road",
+    "impact": "Two-way lights",
+    "description": "Two-way lights in place outside 30 to enable disconnection of old cables and supply of new connection.",
+    "startDate": "2026-07-28",
+    "endDate": "2026-08-02",
+    "displayDate": "28 July to 2 August 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "UK Power Networks",
+    "references": [
+      "EC40049450877"
+    ],
+    "showOnTV": true,
+    "id": "RW-20260615-054"
+  },
+  {
+    "bulletinDate": "2026-06-15",
+    "area": "Events",
+    "road": "Wimbledon Tennis Championships 2026",
+    "impact": "Event / Road Closures",
+    "description": "Road closures and embargoes in place around the borough to support the Tennis Championships and safe travel through Merton.",
+    "startDate": "2026-06-12",
+    "endDate": "2026-07-26",
+    "displayDate": "Championships 29 June to 12 July 2026; embargoes 12 June to 26 July 2026",
+    "time": "",
+    "notes": "",
+    "worksBy": "Event",
+    "references": [],
+    "showOnTV": true,
+    "id": "RW-20260615-055"
+  }
+]
